@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmoney_catcher"]=self["webpackChunkmoney_catcher"]||[]).push([[471],{6471:function(n,e,r){r.r(e),r.d(e,{default:function(){return h}});var c=r(3396);function t(n,e){return(0,c.wg)(),(0,c.iD)("h3",null,"Этот раздел в разработке")}var u=r(89);const a={},f=(0,u.Z)(a,[["render",t]]);var h=f}}]);
-//# sourceMappingURL=471.8e92c91a.js.map
